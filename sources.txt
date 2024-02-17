@@ -1,0 +1,4 @@
+https://seaborn.pydata.org/generated/seaborn.histplot.html
+https://numpy.org/doc/stable/user/absolute_beginners.html
+https://www.geeksforgeeks.org/matplotlib-pyplot-hist-in-python/
+https://www.geeksforgeeks.org/plotting-histogram-in-python-using-matplotlib/
